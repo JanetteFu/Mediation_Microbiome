@@ -1,4 +1,4 @@
-# BVS_Med
+# Mediation Effect on Microbiome Data
 
 This package is used to perform mediation effect selection for compositional mediators using a Bayesian joint model with the spike-and-slab priors. 
 
